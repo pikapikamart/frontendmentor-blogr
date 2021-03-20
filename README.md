@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-[Dekstop view](./design/desktop-preview.jpg)
+![Dekstop view](./design/desktop-preview.jpg)
 [Mobile View](./blogr-mobile.png)
 
 ### Links
