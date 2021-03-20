@@ -26,6 +26,7 @@ Users should be able to:
 
 
 ### Screenshot
+This is the screenshot of the website challenge solution that I created
 
 ![Dekstop view](blogr-desktop.png)
 ![Mobile View](blogr-mobile.png)
