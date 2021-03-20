@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Screenshot
 
-(blogr-desktop.png)
-(blogr-mobile.png)
+(./blogr-desktop.png)
+(./blogr-mobile.png)
 
 ### Links
 
