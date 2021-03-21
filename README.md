@@ -1,6 +1,6 @@
-# Frontend Mentor - Crowdfunding product page solution
+# Frontend Mentor - Blogr landing page solution
 
-This is a solution to the [Crowdfunding product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/crowdfunding-product-page-7uvcZe7ZR). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Blogr landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blogr-landing-page-EX2RLAApP). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -27,16 +27,16 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-view](Finished/desktop-preview.png)
-![Mobile-view](Finished/mobile-preview.png)
+![Desktop-view](blogr-desktop.png)
+![Mobile-view](blogr-mobile.png)
 
 ### Links
 
-Live Site URL: [Live site of the challenge hosted here](https://pikapikamart.github.io/frontendmentor-crowdfunding/)
+Live Site URL: [Live site of the challenge hosted here](https://pikapikamart.github.io/frontendmentor-blogr/)
 
 ## My process
 
-This second challenge was pretty fun since I don't almost build accordion likes object and I made just using css with no js, but other part with js. This part of my everyday 1 frontend mentor project, but, I will be pausing for now since freelance work is calling me. But I will resume and continue making 1 everyday project
+It is fun building this website, this is my first frontend mentor challege. I did this since i'm having a break from my freelance projects and I decided to make a hobby of creating 1 website project everyday from frontend mentor. Well the solution posting is new to me so I kinda got late from creating it since i'm confused about it, but creating the project is really, really fun and I recommned it to make 1 project everyday or 1 project every 2 days, depending on your free time.
 
 ### Built with
 
